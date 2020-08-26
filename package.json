@@ -1,6 +1,6 @@
 {
 	"name": "enim",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "animate web elements easily!",
 	"main": "index.js",
 	"scripts": {
