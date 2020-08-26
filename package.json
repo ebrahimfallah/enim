@@ -7,7 +7,15 @@
 		"build": "webpack -p",
 		"watch": "webpack --watch"
 	},
-	"author": "Ebrahim Fallah",
+	"keywords": [
+		"animations",
+		"transitions",
+		"event"
+	],
+	"author": {
+		"name": "Ebrahim Fallah",
+		"email": "thisisebi@pm.me"
+	},
 	"license": "MIT",
 	"devDependencies": {
 		"file-loader": "^6.0.0",
