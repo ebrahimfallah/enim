@@ -1,0 +1,31 @@
+.enim-up-down {
+    @include anim(enim-scale-up-down);
+}
+
+.enim-down-up {
+    @include anim(enim-scale-down-up);
+}
+
+.enim-rotate-right {
+    @include anim(enim-rotate-right);
+}
+
+.enim-rotate-left {
+    @include anim(enim-rotate-left);
+}
+
+.enim-fade-in {
+    @include anim(enim-fade-in);
+}
+
+.enim-fade-out {
+    @include anim(enim-fade-out);
+}
+
+.enim-wink {
+    @include anim(enim-wink);
+}
+
+.enim-shake {
+    @include anim(enim-shake);
+}

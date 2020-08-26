@@ -1,0 +1,28 @@
+@mixin rotate($args...) {
+    transform: rotate($args);
+    -webkit-transform: rotate($args);
+    -moz-transform: rotate($args);
+    -ms-transform: rotate($args);
+    -o-transform: rotate($args);
+}
+
+@mixin scale($args...) {
+    transform: scale($args);
+    -webkit-transform: scale($args);
+    -moz-transform: scale($args);
+    -ms-transform: scale($args);
+    -o-transform: scale($args);
+}
+
+@mixin anim($name) {
+    animation: $name;
+    -webkit-animation: $name;
+}
+
+@mixin transform($value) {
+    transform: $value;
+    -webkit-transform: $value;
+    -moz-transform: $value;
+    -ms-transform: $value;
+    -o-transform: $value;
+}

@@ -1,0 +1,19 @@
+{
+	"name": "enim",
+	"version": "1.0.0",
+	"description": "animate web elements easily!",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack -p",
+		"watch": "webpack --watch"
+	},
+	"author": "Ebrahim Fallah",
+	"license": "MIT",
+	"devDependencies": {
+		"file-loader": "^6.0.0",
+		"sass": "^1.26.10",
+		"sass-loader": "^10.0.1",
+		"webpack": "^4.44.1",
+		"webpack-cli": "^3.3.12"
+	}
+}
