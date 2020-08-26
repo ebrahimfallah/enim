@@ -9,10 +9,10 @@ npm i enim
 ```
 or use `css` and `js` files directly from CDN:
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/enim@1.0.0/dist/enim.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/enim@1.0.2/dist/enim.min.css">
 ```
 ```html
-<script src="https://cdn.jsdelivr.net/npm/enim@1.0.0/dist/enim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/enim@1.0.2/dist/enim.min.js"></script>
 ```
 
 ## Available attributes
