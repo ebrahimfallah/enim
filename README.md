@@ -22,7 +22,7 @@ or use `css` and `js` files directly from CDN:
 | enim-duration    | Time in milliseconds | Duration of animation                                     |
 | enim-repeat      | int or 'infinite'    | Set a number to repeat the animation or set infinite      |
 | enim-on          | javascript events    | Animation starts after a JavaScript event such as 'click' |
-| enim-soft-finish | true                 | animation end without slowing down                        |
+| enim-soft-finish | false                | animation end without slowing down                        |
 | enim-keep-end    | true                 | The element never returns to its original state           |
 
 ## Available animations
