@@ -16,6 +16,10 @@
 		"name": "Ebrahim Fallah",
 		"email": "thisisebi@pm.me"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ebrahimfallah/enim.git"
+	},
 	"license": "MIT",
 	"devDependencies": {
 		"file-loader": "^6.0.0",
