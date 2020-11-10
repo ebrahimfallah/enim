@@ -50,5 +50,5 @@ Rotate the loading icon indefinitely and without interruption:
 
 shaking the button after hovering the mouse over it:
 ```html
-<button enim="shake" enim-repeat="4" enim-on="mouseenter"></div>
+<button enim="shake" enim-repeat="4" enim-on="mouseenter"></button>
 ```
